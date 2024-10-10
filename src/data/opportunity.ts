@@ -1,3 +1,5 @@
+export const invalidToken = '__INVALID_TOKEN__eyJhbGciOiJIUz1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImS1mZGE0LTQ1NzUtOWZlYy04NWEwMjMyNjIzNjUiLCJpYXQiOjE3Mjg1OTAxMjQsImV4cCI6MTcyODc2MjkyNH0.56Ki5QSv9xdFVkvMH-IeB9WZ2t10LKOhaSj7gqXrxCE'
+
 export const opportunityAllFields = {
     data: {
         contact: {
@@ -32,4 +34,3 @@ export const opportunityReqFields = {
     serverHandler: "opportunity.handler.opportunity_create"
 }
 
-export const invalidToken = '__INVALID_TOKEN__eyJhbGciOiJIUz1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImS1mZGE0LTQ1NzUtOWZlYy04NWEwMjMyNjIzNjUiLCJpYXQiOjE3Mjg1OTAxMjQsImV4cCI6MTcyODc2MjkyNH0.56Ki5QSv9xdFVkvMH-IeB9WZ2t10LKOhaSj7gqXrxCE'
